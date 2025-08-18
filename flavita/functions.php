@@ -2,7 +2,7 @@
 /**
  * Define Theme Version
  */
-define( 'FLAVITA_THEME_VERSION', '14.9' );
+define( 'FLAVITA_THEME_VERSION', '15.0' );
 
 function flavita_css() {
 	$parent_style = 'gradiant-parent-style';
