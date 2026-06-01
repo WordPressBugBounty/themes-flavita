@@ -5,7 +5,7 @@ Author: Nayra Themes
 Author URI: https://www.nayrathemes.com/
 Description: A powerful next generation theme for upcoming generations and traditional UI that focuses on the color combinations of solid and gradient colors, along with cool animations and attractive features. It's perfect for any type of business. View the demo of Flavita Pro https://www.nayrathemes.com/demo/pro/?theme=flavita
 Template: gradiant
-Version: 19.0
+Version: 19.1
 Tested up to: 7.0
 Requires PHP: 7.4
 Requires at least: 4.7
@@ -1315,3 +1315,7 @@ a.wp-block-latest-posts__post-title:focus {
 	    border: 0px solid transparent;
  	    background-color: transparent;
  }
+
+.wc-block-components-formatted-money-amount {
+	    font-weight: 700;
+}
